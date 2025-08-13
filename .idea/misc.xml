@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10 (NlpApp)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (100DaysOfCode-v4.0)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (NLPApp)" project-jdk-type="Python SDK" />
 </project>
