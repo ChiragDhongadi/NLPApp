@@ -22,8 +22,8 @@ A user-friendly Python desktop application built with Tkinter that allows users 
 
 ##  Screenshot
 
-![App Screenshot](![Untitled Project](https://github.com/user-attachments/assets/3723d66e-6a0b-4248-bfc2-e0f6b0531f1c)
-)
+![Untitled Project](https://github.com/user-attachments/assets/3723d66e-6a0b-4248-bfc2-e0f6b0531f1c)
+
 
 ---
 
